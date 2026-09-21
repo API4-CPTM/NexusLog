@@ -4,7 +4,7 @@
 
 # Aprendizado por Projeto Integrado (API) 
 
-Nós alunos do 3° semestre do curso de Logística da Fatec, desenvolvemos este projeto com o propósito acadêmico de complementar e aprimorar nossa capacidade analítica e logística, envolvendo a prática da interdisciplinaridade. O Projeto é baseado na metodologia ágil SCRUM, buscando desenvolver a proatividade, autonomia, colaboração e entrega de resultados dos estudantes envolvidos.
+Nós alunos do 4° semestre do curso de Logística da Fatec, desenvolvemos este projeto com o propósito acadêmico de complementar e aprimorar nossa capacidade analítica e logística, envolvendo a prática da interdisciplinaridade. O Projeto é baseado na metodologia ágil SCRUM, buscando desenvolver a proatividade, autonomia, colaboração e entrega de resultados dos estudantes envolvidos.
 
 # Índice
 
