@@ -1,4 +1,5 @@
 # NexusLog
+<img width="638" height="335" alt="Api 4_20260923_150025_0000" src="https://github.com/user-attachments/assets/a976e518-855b-404c-8d46-94b1b641e14c" />
 
 
 
