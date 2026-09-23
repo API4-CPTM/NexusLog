@@ -29,9 +29,9 @@ No quarto semestre do curso de Logística fomos desafiados a desenvolver uma fer
 |Team Member  | Ribamar   |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ribamar-barros?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 # Objetivo do Projeto
-Este projeto tem como objetivo desenvolver um painel no BI que possibilite o acom9anhamet detalhado dos estoques da CPTM, considerando indicadores tradicionais como giro de estoque, cobertura (dias), ruptura, excesso, valor em estoque, curva ABC, tempo de permanência, evolução de estoque R$  , visando:
-• Evolução do estoque
-• Análise financeira
-• Giro de estoque
-• Identificação de riscos
-• Classificação de materiais
+Este projeto tem como objetivo desenvolver um painel no BI que possibilite o acom9anhamet detalhado dos estoques da CPTM, considerando indicadores tradicionais como giro de estoque, cobertura (dias), ruptura, excesso, valor em estoque, curva ABC, tempo de permanência, evolução de estoque R$, visando:
+* Evolução do estoque
+* Análise financeira
+* Giro de estoque
+* Identificação de riscos
+* Classificação de materiais
