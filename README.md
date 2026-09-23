@@ -56,6 +56,6 @@ Este projeto tem como objetivo desenvolver um painel no BI que possibilite o aco
  Sprint | Previsão | Status | Histórico |
 |------|--------|------|--------|
 | 01 | 30/09/2026| em andamento | [MVP](MVP/sp1.md)    | 
-| 02 | 28/10/2026| em andamento | [MVP](MVP/sp2.md)| 
-| 03 | 25/11/2026 | em andamento | [MVP](MVP/sp3.md) | 
-| Feira de Soluções | 25/06/2026 | Em andamento |  | 
+| 02 | 28/10/2026| em andamento |   |
+| 03 | 25/11/2026 | em andamento |  | 
+| Feira de Soluções | 03/12/2026 | não iniciado |  | 
