@@ -1,4 +1,4 @@
-# 📌 MVP - [NexusLog-CPTM]
+# 📌 MVP - NexusLog-CPTM
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
