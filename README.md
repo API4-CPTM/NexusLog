@@ -35,3 +35,27 @@ Este projeto tem como objetivo desenvolver um painel no BI que possibilite o aco
 * Giro de estoque
 * Identificação de riscos
 * Classificação de materiais
+
+# Product Backlog 
+
+ Rank | Prioridade | User Story                                                                             | Estimativa  | Sprint     |
+|------|-----------|----------------------------------------------------------------------------------------|-------------|------------|
+| 1    | alta     | Como analista de dados, quero integrar dados da PRF, DATASUS, DENATRAN e IBGE para ter uma base única de análise de segurança viária.| 3  | 1  |
+| 2    | alta     | Como analista, quero limpar e normalizar os dados no Google Colab usando Python para garantir qualidade e confiabilidade das análises| 3  | 1  | 
+| 3    | alta     | Como usuário do dashboard, quero visualizar dados nacionais de frota, população, sinistros e mortes para ter visão geral da segurança viária no Brasil| 2  | 1  | 
+| 4    | média   | Como usuário, quero visualizar dados por estado para comparar indicadores regionais de segurança viária| 3  | 1  | 
+| 5    | baixa  | Como equipe do projeto, quero armazenar código e artefatos no GitHub para garantir versionamento e colaboração| 2  | 1
+| 6    | alta  | Como analista, quero calcular a taxa de mortalidade por 100 mil habitantes para avaliar o impacto dos sinistros no trânsito| 2  | 2  |
+| 7    | média |Como analista, quero calcular sinistros por 10 mil veículos para comparar níveis de risco entre estados| 2   | 2   |
+| 8    | alta   |Como usuário, quero visualizar gráficos de tendência por ano para analisar evolução da segurança viária entre 2015 e 2025| 3   | 2  |
+| 9   | alta  | Como usuário, quero interface intuitiva no Power BI com navegação simples para acessar informações rapidamente| 6  | 2  |
+| 10  | média | Como usuário, quero comparar indicadores de um estado com a média nacional para avaliar desempenho relativo| 4  | 2  |
+
+ # Registro das Sprints
+ 
+ Sprint | Previsão | Status | Histórico |
+|------|--------|------|--------|
+| 01 | 30/09/2026| em andamento | [MVP](MVP/sp1.md)    | 
+| 02 | 28/10/2026| em andamento | [MVP](MVP/sp2.md)| 
+| 03 | 25/11/2026 | em andamento | [MVP](MVP/sp3.md) | 
+| Feira de Soluções | 25/06/2026 | Em andamento |  | 
