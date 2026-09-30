@@ -14,8 +14,8 @@
 * Estruturação inicial do banco/modelo de dados
 * Criação da primeira versão do Dashboard no Power BI
 * Organização e versionamento dos artefatos do projeto no GitHub
-> Por ainda ser MVP1 não teremos toda estrutração e funcionalidades que posteriormente terão, ao decorrer do projeto como todos indicadores (giro de estoque,cobertura em dias ou curva ABC)
-> O escopo dessa sprint se concentra em garantir que ps dados sejam confiáveis e de qualidade, afim de nos permitir o inicio da nossa solução.
+> Por ainda ser MVP1 não teremos toda estrutração e funcionalidades que posteriormente terão ao decorrer do projeto, como todos nossos indicadores (giro de estoque,cobertura em dias ou curva ABC)
+> O escopo dessa sprint se concentra em garantir que os dados sejam confiáveis e de qualidade, afim de nos permitir o inicio da nossa solução.
 ---
 
 ## 👥 Personas / Usuários-Alvo
