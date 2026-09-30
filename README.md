@@ -40,22 +40,26 @@ Este projeto tem como objetivo desenvolver um painel no BI que possibilite o aco
 
  Rank | Prioridade | User Story                                                                             | Estimativa  | Sprint     |
 |------|-----------|----------------------------------------------------------------------------------------|-------------|------------|
-| 1    | alta     | Como analista de dados, quero integrar dados da PRF, DATASUS, DENATRAN e IBGE para ter uma base única de análise de segurança viária.| 3  | 1  |
-| 2    | alta     | Como analista, quero limpar e normalizar os dados no Google Colab usando Python para garantir qualidade e confiabilidade das análises| 3  | 1  | 
-| 3    | alta     | Como usuário do dashboard, quero visualizar dados nacionais de frota, população, sinistros e mortes para ter visão geral da segurança viária no Brasil| 2  | 1  | 
-| 4    | média   | Como usuário, quero visualizar dados por estado para comparar indicadores regionais de segurança viária| 3  | 1  | 
-| 5    | baixa  | Como equipe do projeto, quero armazenar código e artefatos no GitHub para garantir versionamento e colaboração| 2  | 1
-| 6    | alta  | Como analista, quero calcular a taxa de mortalidade por 100 mil habitantes para avaliar o impacto dos sinistros no trânsito| 2  | 2  |
-| 7    | média |Como analista, quero calcular sinistros por 10 mil veículos para comparar níveis de risco entre estados| 2   | 2   |
-| 8    | alta   |Como usuário, quero visualizar gráficos de tendência por ano para analisar evolução da segurança viária entre 2015 e 2025| 3   | 2  |
-| 9   | alta  | Como usuário, quero interface intuitiva no Power BI com navegação simples para acessar informações rapidamente| 6  | 2  |
-| 10  | média | Como usuário, quero comparar indicadores de um estado com a média nacional para avaliar desempenho relativo| 4  | 2  |
+| 1    | média     | Como tomador de decisões, quero acesso a um o repositório no GitHub com boas práticas de versionamento, para que todos os artefatos fiquem organizados e seguros.| 2| 1  |
+| 2    | alta     | Como tomador de decisões, quero extrair e tratar os dados brutos de estoque do ERP ALVO, utilizando a linguagem Python, para que tenhamos dados limpos, consistentes e sem duplicidades.| 3  | 1  | 
+| 3    | alta     | Como tomador de decisões, quero acesso a um Dashboard com todas as visualizações relevantes para um controle de estoque eficaz.| 3  | 1  | 
+| 4    | alta   | Como tomador de decisões, quero desenhar o Modelo Dimensional (Star Schema), para que os cálculos e performance do Power BI sejam otimizados| 3  | 1  | 
+| 5    | baixa  | Como tomador de decisões, quero visualizar o Valor Total em Estoque, Estoque Médio e Evolução Financeira| 2  | 2
+| 6    | alta  | Como tomador de decisões, quero acompanhar os indicadores de Giro de Estoque e Cobertura (Dias), para que eu identifique gargalos e tempo de permanência dos materiais.| 2  | 2  |
+| 7    | alta |Como tomador de decisões, quero a Classificação da Curva ABC automática dos materiais, para que eu saiba quais itens possuem maior impacto financeiro e relevância.| 4   | 2   |
+| 8    | média   |Como tomador de decisões, quero ter uma interface no Dashboard responsiva, intuitiva e com navegação amigável, para que eu navegue entre visualizações com poucos cliques.| 4   | 2  |
+| 9   | alta  | Como tomador de decisões, quero elaborar o Dicionário de Dados do projeto, para que as definições de campos e origens especialmente os códigos de programação para que fiquem transparentes para o cliente CPTM.| 3  | 3  |
+| 10  | média | Como tomador de decisões, quero calcular o comportamento sazonal do consumo de materiais, para que eu identifique padrões de demanda ao longo do ano.| 6  | 3  |
+| 11  | média | Como tomador de decisões, quero ter uma interface no Dashboard responsiva, intuitiva e com navegação amigável, para que eu navegue entre visualizações com poucos cliques| 4  | 3  |
+| 12  | média | Como tomador de decisões, quero aplicar Filtros Dinâmicos por Tipo de Material, Almoxarifado, Período e Centro de Custo, para que eu analise cenários específicos.| 3  | 3  |
+| 13  | baixa | Como tomador de decisões, quero um Manual do Usuário e Documentação da Arquitetura da Solução, para que eu possa operar e evoluir o painel de forma autônoma.| 4  | 3  |
+| 14  | baixa | Como tomador de decisões, quero uma Apresentação Executiva e o Vídeo Demonstrativo, para o Pitch Day.| 3  | 3  |
 
  # Registro das Sprints
  
  Sprint | Previsão | Status | Histórico |
 |------|--------|------|--------|
-| 01 | 30/09/2026| em andamento | [MVP](MVP/sp1.md)    | 
+| 01 | 30/09/2026| concluido | [MVP](MVP/sp1.md)    | 
 | 02 | 28/10/2026| em andamento |   |
 | 03 | 25/11/2026 | em andamento |  | 
 | Feira de Soluções | 03/12/2026 | não iniciado |  | 
