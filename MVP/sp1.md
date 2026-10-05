@@ -27,29 +27,30 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-
+| US1 | Como tomador de decisões, quero acesso a um o repositório no GitHub com boas práticas de versionamento, para que todos os artefatos fiquem organizados e seguros       | Média       | 5 pontos   |
+| US2 | Como tomador de decisões, quero extrair e tratar os dados brutos de estoque do ERP ALVO, utilizando a linguagem Python, para que tenhamos dados limpos, consistentes e sem duplicidades        | Alta      | 3 pontos   |
+| US3 | Como tomador de decisões, quero acesso a um Dashboard com todas as visualizações relevantes para um controle de estoque eficaz        | Alta      | 3 pontos   |
+| US4 | Como tomador de decisões, quero desenhar o Modelo Dimensional (Star Schema), para que os cálculos e performance do Power BI sejam otimizados        | Alta      | 3 pontos   |
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
-
+* O MVP deve permitir que o usuário acesse o Dashboard e visualize os dados de estoque tratados e organizados.
+* O sistema deve registrar as versões e alterações dos artefatos do projeto no GitHub, garantindo o controle e a organização do desenvolvimento.
+* Métricas coletadas: quantidade de dados processados, quantidade de duplicidades/inconsistências identificadas e tempo de processamento dos dados
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+* Os integrantes do grupo testaram o MVP e avaliaram o Dashboard, prenvendo melhorias e como utilizar os dados que tratamos para um painel útil de utilização para a CPTM.
+* Feedback qualitativo dos usuários sobre clareza das informações, facilidade de navegação e utilidade do Dashboard, que segue em discussão para melhorias no dashboard
+* Qualidade dos dados, considerando a quantidade de inconsistências e duplicidades identificadas e tratadas.
+
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+* Melhorias planejadas após feedback: corrigir inconsistências e realizar ajustes nas visualizações do Dashboard.
+* Ajustes de usabilidade: melhorar a organização das informações e facilitar a navegação do usuário.
+* Expansão de funcionalidades para o próximo incremento: implementar os indicadores de Valor Total em Estoque, Estoque Médio, Evolução Financeira, Giro de Estoque e Cobertura (Dias), previstos para a Sprint 2.
 
 ---
 
