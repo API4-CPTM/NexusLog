@@ -19,8 +19,8 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **CPTM-SP 1:** Necessita de informações confiáveis, organizadas e atualizadas para acompanhar a evolução dos estoques, analisar valores armazenados e apoiar a tomada de decisões. A principal dor atendida é a dificuldade de transformar os dados de estoque em informações úteis para análise e gestão  
+- **Marcus 2:** Necessita acompanhar o desenvolvimento da solução, verificar se os requisitos estão sendo atendidos e avaliar a qualidade das entregas realizadas pela equipe. Sua principal necessidade é ter uma visão clara da evolução do projeto e dos resultados alcançados em cada Sprint.  
 
 ---
 
