@@ -1,18 +1,17 @@
-# 📌 MVP - [Nexus Log]
+# 📌 MVP - NexusLog-CPTM
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+- O MVP 2 busca solucionar a dificuldade de acompanhar o desempenho financeiro e operacional dos estoques da CPTM, permitindo identificar materiais com maior valor armazenado, baixa rotatividade e possíveis problemas de cobertura
+- A hipótese é que a implementação de indicadores financeiros e logísticos, juntamente com a classificação automática da Curva ABC, permitirá uma análise mais eficiente dos estoques, facilitando a identificação de oportunidades de melhoria e apoiando a tomada de decisões.
+- O usuário terá acesso a informações mais detalhadas sobre o comportamento financeiro e operacional dos estoques, podendo identificar materiais de maior relevância, acompanhar a movimentação dos produtos e avaliar a necessidade de reposição ou redução de excessos.  
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Nesta segunda etapa, será realizada a evolução do Dashboard desenvolvido na Sprint 1, incorporando indicadores financeiros e logísticos que possibilitem uma análise mais aprofundada dos materiais armazenados pela CPTM.
+# Principais funcionalidades aplicadas:
+- valor total em estoque, estoque médio, evolução financeira, giro de estoque, cobertura de estoque(em dias), curva ABC,  melhorias na interface dodash
+
 
 ---
 
