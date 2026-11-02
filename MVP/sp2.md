@@ -38,27 +38,29 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário visualize o Valor Total em Estoque, Estoque Médio e Evolução Financeira, facilitando o acompanhamento dos recursos financeiros armazenados.
+- O sistema deve permitir consultar os indicadores de Giro de Estoque e Cobertura em Dias, identificando a rotatividade e o tempo de permanência dos materiais.
+- O sistema deve realizar a classificação automática dos materiais por meio da Curva ABC, destacando os itens de maior relevância.
+- O Dashboard deve apresentar uma interface intuitiva, organizada e responsiva, permitindo acesso às informações com poucos cliques.
+- Métricas coletadas: valores financeiros do estoque, indicadores de giro, cobertura em dias, quantidade de materiais classificados na Curva ABC e tempo de carregamento das visualizações.
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Usuários participantes do grupo acessaram e avaliaram as novas funcionalidades do Dashboard.
+- Avaliação dos usuários sobre a clareza dos indicadores, facilidade de navegação e utilidade das informações apresentadas.
+- Verificação dos cálculos de Valor Total em Estoque, Estoque Médio, Giro e Cobertura.
+- Verificar se os materiais foram classificados corretamente conforme os critérios estabelecidos.
+- Reavaliar o tempo de carregamento e a facilidade de acesso às informações.
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
-
+- Corrigir possíveis divergências nos cálculos dos indicadores e ajustar as classificações dos materiais.
+- Aprimorar a disposição dos gráficos, indicadores e informações para facilitar a interpretação dos dados.
+- Desenvolver a análise de sazonalidade do consumo de materiais.
+- Implementar filtros por tipo de material, almoxarifado, período e centro de custo.
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+-   https://drive.google.com/file/d/1vHnGzIOwOHLpdS47tpWcmf97yqgFUhx1/view?usp=drivesdk
