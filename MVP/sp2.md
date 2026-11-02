@@ -9,8 +9,9 @@
 
 ## 📝 Descrição da Solução
 - Nesta segunda etapa, será realizada a evolução do Dashboard desenvolvido na Sprint 1, incorporando indicadores financeiros e logísticos que possibilitem uma análise mais aprofundada dos materiais armazenados pela CPTM.
+  
 # Principais funcionalidades aplicadas:
-- valor total em estoque, estoque médio, evolução financeira, giro de estoque, cobertura de estoque(em dias), curva ABC,  melhorias na interface dodash
+- valor total em estoque, estoque médio, evolução financeira, giro de estoque, cobertura de estoque(em dias), curva ABC,  melhorias na interface do dash.
 
 
 ---
