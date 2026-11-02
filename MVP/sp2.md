@@ -21,20 +21,13 @@
 - **Marcus Nascimento :** Empenha-se em acompanhar o desenvolvimento da solução, verificar se os requisitos estão sendo atendidos e avaliar a qualidade das entregas realizadas pela equipe. Sua principal necessidade é ter uma visão clara da evolução do projeto e dos resultados alcançados em cada Sprint.  
 
 ---
-
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-
----
-
-## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| US5 | Como tomador de decisões, quero visualizar o Valor Total em Estoque, Estoque Médio e Evolução Financeira      | Média       | 5 pontos   |
+| US6 | Como tomador de decisões, quero acompanhar os indicadores de Giro de Estoque e Cobertura (Dias), para que eu identifique gargalos e tempo de permanência dos materiais     | Alta      | 3 pontos   |
+| US7 | Como tomador de decisões, quero a Classificação da Curva ABC automática dos materiais, para que eu saiba quais itens possuem maior impacto financeiro e relevância        | Alta      | 3 pontos   |
+| US8 | Como tomador de decisões, quero ter uma interface no Dashboard responsiva, intuitiva e com navegação amigável, para que eu navegue entre visualizações com poucos cliques       | Alta      | 3 pontos   |
 
 ---
 
